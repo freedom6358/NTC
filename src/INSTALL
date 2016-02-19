@@ -1,0 +1,9 @@
+Building NTC
+
+See doc/readme-qt.rst for instructions on building NTC QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NTC.
+
+See doc/build-*.txt for instructions on building NTCd,
+the intended-for-services, no-graphical-interface, reference
+implementation of NTC.
